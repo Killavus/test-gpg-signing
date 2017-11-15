@@ -1,1 +1,2 @@
 Hello!
+I'll change something to check if I can easily sign Git commits.
